@@ -1,5 +1,5 @@
 <p align="center">
-  <b>[MATERIAL NIX](https://github.com/MATERIAL-NIX)</b><br>
+  <b> [MATERIAL NIX](https://github.com/MATERIAL-NIX)</b><br>
   <a href="#">[Round](https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Round)</a> |
   <a href="#">[Square](https://github.com/MATERIAL-NIX/MATERIAL-NIX-Icons-Square)</a> |
   <a href="#">[Base]()</a>
@@ -22,6 +22,7 @@ To deal with hardcoded application icons Material*Nix uses the [hardcode-fixer](
 ### Credits
 
 ### Links
+  * [Deviantart](http://le-3.deviantart.com/)
+  * [Google+](https://plus.google.com/u/0/communities/103720848213793037553)
 
-[Deviantart](http://le-3.deviantart.com/)
-[Google+](https://plus.google.com/u/0/communities/103720848213793037553)
+===================
